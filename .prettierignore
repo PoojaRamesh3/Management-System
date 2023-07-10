@@ -1,0 +1,13 @@
+node_modules
+package.json
+package-lock.json
+yarn-lock.json
+public
+README.md
+tailwind.config.js
+tsconfig.json
+.babelrc
+.eslintrc
+.prettierrc
+webpack.config.js
+webpack.local.js
